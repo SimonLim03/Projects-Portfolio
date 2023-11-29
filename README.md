@@ -57,7 +57,7 @@ Link: https://github.com/SimonLim03/Youtube-Videos-Data-Lakehouse
 <hr>
 
 ## New York City Taxi Data Processing with Spark
-![image](https://github.com/SimonLim03/Projects-Portfolio/assets/150989115/518d3a31-65ae-452a-ad90-44c2950d974b)
+![image](https://github.com/SimonLim03/Projects-Portfolio/assets/150989115/80817b79-ff7b-4c8f-ba59-1d7fba968cf8)
 <p>
 The objective of the project is to analyse a large dataset and obtain meaningful outcomes using Spark in Databricks. The procedure of the project includes data ingestion and preparation, data transformation and analysis and finally training a Machine Learning algorithm for predicting total amount of trips.
  </p>

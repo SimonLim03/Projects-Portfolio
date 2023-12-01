@@ -120,6 +120,14 @@ This project aims to provide insights to the majority of Sydney suburbs, types o
 Link: https://github.com/SimonLim03/Data-Storytelling-on-Sydney-House-Price
 <hr>
 
+## Data-analysis-for-marketing-campaigns
+![image](https://github.com/SimonLim03/Projects-Portfolio/assets/150989115/b55c2d44-6116-4e16-8812-db7e6b76d902)
+<p>
+The main objective of the project is to build statistical learning models that can successfully identify the customer segments that are the most responsive to marketing campaigns. Furthermore, the project also aims at finding three effective business strategies that can help the company in making decisions for their marketing campaigns.
+ </p> 
+Link: https://github.com/SimonLim03/Data-analysis-for-marketing-campaigns
+<hr>
+
 ## Waste-and-Recycling-Data-Narratives
 ![image](https://github.com/SimonLim03/Projects-Portfolio/assets/150989115/e6e4afcd-dbe8-4ae2-ba33-b5e6233f063a)
 <p>

@@ -128,7 +128,7 @@ The main objective of the project is to build statistical learning models that c
 Link: https://github.com/SimonLim03/Data-analysis-for-marketing-campaigns
 <hr>
 
-## Waste-and-Recycling-Data-Narratives
+## Waste-and-Recycling-Data-Narratives (Advertisement)
 ![image](https://github.com/SimonLim03/Projects-Portfolio/assets/150989115/e6e4afcd-dbe8-4ae2-ba33-b5e6233f063a)
 <p>
 This purpose of the project is to reduce the rubbish residents generate and encourage people to recycle more. The current situations and problems have been described, analysed and visualized and appropriate solutions have been provided. This project has been crafted like a public advertisement.

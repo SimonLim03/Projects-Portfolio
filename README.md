@@ -31,7 +31,7 @@ my name is Simon Lim, a passionate data science student currently pursuing my Ma
 A machine learning product, which can predict the expected flight fare for different airport trips. In particular, this project split the travel airfare into 4 different fares, including minimum, median, modal and mean of airfare Together, these metrics aim to provide a comprehensive overview of potential fares to users. To enable model’s access to users, Strealit was used for model deployment, enabling users to use the models as a application.
  </p>
 - Link: https://github.com/SimonLim03/Flight-Fare-Prediction-App
-- Skills: Machine Learning (Regression), Streamlit, CatBoostRegressor, Docker, Application
+- Machine Learning (Regression), Streamlit, CatBoostRegressor, Docker, Application
 <hr>
 
 ## Sales-Revenue-Prediction-App
@@ -65,7 +65,8 @@ Top trending videos are evaluated based on video’s number of views, shares, li
 <p>
 The objective of the project is to analyse a large dataset and obtain meaningful outcomes using Spark in Databricks. The procedure of the project includes data ingestion and preparation, data transformation and analysis and finally training a Machine Learning algorithm for predicting total amount of trips.
  </p>
-Link: https://github.com/SimonLim03/Data-Processing-with-Databricks-Spark
+- Link: https://github.com/SimonLim03/Data-Processing-with-Databricks-Spark
+- Databricks, Pyspark, SQL, Big Data Analysis
 <hr>
 
 ## Airbnb Data Pipelines using Airflow and DBT
@@ -73,14 +74,16 @@ Link: https://github.com/SimonLim03/Data-Processing-with-Databricks-Spark
 <p>
 Airbnb records millions of various information in 191 countries, including density of rentals across regions, price variations across rentals and host-guest interactions (e.g., number of reviews). In this project, only data in Sydney are used with specific date range from May 2020 to April 2021. The objective of the project is to build production-ready data pipelines with Airflow, Data Build Tool and Postgres SQL.
  </p>
-Link: https://github.com/SimonLim03/Airbnb-Data-Pipelines-with-Airflow-
+- Link: https://github.com/SimonLim03/Airbnb-Data-Pipelines-with-Airflow-
+- Microsoft Azure, Airflow, DBT, PostgreSQL, Data pipeline
 <hr>
 
 ## Covid-19-NLP-text-analysis
 <p>
 This project conducts text analysis using various techniques, including word count, word frequency, word association, k-mean clustering and sentiment analysis on dataset that is associated with the COVID-19 vaccine expressions and will try to find out the narrative and insights of the dataset. The dataset involves a variety of expressions for 181 common questions about COVID-19 vaccine.
  </p>
-Link : https://github.com/SimonLim03/Covid-19-NLP-text-analysis
+- Link : https://github.com/SimonLim03/Covid-19-NLP-text-analysis
+- Covid-19, Text Analysis, Clustering
 <hr>
 
 ## Amazon-Reviews-NLP-analysis
@@ -88,7 +91,8 @@ Link : https://github.com/SimonLim03/Covid-19-NLP-text-analysis
 <p>
 Online reviews are important for customers for a better understanding of the product and their purchasing decisions. Reviews can also help retailers to improve their service or product. This project aims to use NLP techniques to build prediction models to predict how helpful new reviews will be or gain insight into the features that influence helpfulness. To better understand the variety of NLP techniques, multiple NLP techniques have been used.
  </p>
-Link: https://github.com/SimonLim03/Amazon-Reviews-NLP-analysis
+- Link: https://github.com/SimonLim03/Amazon-Reviews-NLP-analysis
+- NLP Text Analysis, Deep Learning, Clustering, Topic Modeling
 <hr>
 
 ## EDA on Google-Play-Store
@@ -96,7 +100,8 @@ Link: https://github.com/SimonLim03/Amazon-Reviews-NLP-analysis
 <p>
 ThE project tries to solve if there is any issue in Google Play Store applications and investigate any application trend in the Google Play Store.
  </p> 
-Link: https://github.com/SimonLim03/Google-Play-Store-EDA-
+- Link: https://github.com/SimonLim03/Google-Play-Store-EDA-
+- Exploratory Data Analysis, Data Visualization, Kaggle, Python
 <hr>
 
 ## Data-Visualization-on-World-University-Ranking using Tableau
@@ -104,7 +109,8 @@ Link: https://github.com/SimonLim03/Google-Play-Store-EDA-
 <p>
 Data narrative and visualization on World University Ranking using Tableau
  </p> 
-Link: https://github.com/SimonLim03/Data-Visualization-on-World-University-Ranking-Tableau-
+- Link: https://github.com/SimonLim03/Data-Visualization-on-World-University-Ranking-Tableau-
+- Tableau, Data Visualization, Exploratory Data Analysis
 <hr>
 
 ## Data-Visualization-on-Covid-19-Cases
@@ -112,7 +118,8 @@ Link: https://github.com/SimonLim03/Data-Visualization-on-World-University-Ranki
 <p>
 Data narrative and visualization on Covid-19 cases and deaths using Python packages
  </p> 
-Link: https://github.com/SimonLim03/Data-Visualization-on-Covid-19-Cases
+- Link: https://github.com/SimonLim03/Data-Visualization-on-Covid-19-Cases
+- Data Visualization, Python
 <hr>
 
 
@@ -121,7 +128,8 @@ Link: https://github.com/SimonLim03/Data-Visualization-on-Covid-19-Cases
 <p>
 This project aims to provide insights to the majority of Sydney suburbs, types of hosues and the overall house prices in each year and month through data Narratives and visualizations.
  </p> 
-Link: https://github.com/SimonLim03/Data-Storytelling-on-Sydney-House-Price
+- Link: https://github.com/SimonLim03/Data-Storytelling-on-Sydney-House-Price
+- Data Visualization, Kaggle
 <hr>
 
 ## Data-analysis-for-marketing-campaigns
@@ -129,7 +137,8 @@ Link: https://github.com/SimonLim03/Data-Storytelling-on-Sydney-House-Price
 <p>
 The main objective of the project is to build statistical learning models that can successfully identify the customer segments that are the most responsive to marketing campaigns. Furthermore, the project also aims at finding three effective business strategies that can help the company in making decisions for their marketing campaigns.
  </p> 
-Link: https://github.com/SimonLim03/Data-analysis-for-marketing-campaigns
+- Link: https://github.com/SimonLim03/Data-analysis-for-marketing-campaigns
+- Machine Learning (Classification), EDA, Bayesian Estimation, Bayesian Optimization
 <hr>
 
 ## Waste-and-Recycling-Data-Narratives (Advertisement)
@@ -137,7 +146,8 @@ Link: https://github.com/SimonLim03/Data-analysis-for-marketing-campaigns
 <p>
 This purpose of the project is to reduce the rubbish residents generate and encourage people to recycle more. The current situations and problems have been described, analysed and visualized and appropriate solutions have been provided. This project has been crafted like a public advertisement.
  </p> 
-Link: https://github.com/SimonLim03/Waste-and-Recycling-Data-Narratives
+- Link: https://github.com/SimonLim03/Waste-and-Recycling-Data-Narratives
+- Data Narratives, Data Visualization, Advertisement
 <hr>
 
 ## Analysis-of-Company-Performance-SQL-
@@ -145,7 +155,8 @@ Link: https://github.com/SimonLim03/Waste-and-Recycling-Data-Narratives
 <p>
 The performance of the business company has been analyzed using SQL on a Postgres SQL database.
  </p> 
-Link: https://github.com/SimonLim03/Analysis-of-Company-Performance-SQL-
+- Link: https://github.com/SimonLim03/Analysis-of-Company-Performance-SQL-
+- PostgreSQL, Data Analysis
 <hr>
 
 ## Currency Converter Using Python API
@@ -154,7 +165,8 @@ Link: https://github.com/SimonLim03/Analysis-of-Company-Performance-SQL-
 This application is a currency converter, which allows to quickly convert one currency to another currency. This project used an open-source API: https://www.frankfurter.app/.
 Streamlit is used to deploy an application. The application is available for free
  </p> 
-Link: https://github.com/SimonLim03/Currency-Exchange-Program
+- Link: https://github.com/SimonLim03/Currency-Exchange-Program
+- API, Streamlit
 <hr>
 
 # Mini-Projects

@@ -31,14 +31,15 @@ my name is Simon Lim, a passionate data science student currently pursuing my Ma
 A machine learning product, which can predict the expected flight fare for different airport trips. In particular, this project split the travel airfare into 4 different fares, including minimum, median, modal and mean of airfare Together, these metrics aim to provide a comprehensive overview of potential fares to users. To enable model’s access to users, Strealit was used for model deployment, enabling users to use the models as a application.
  </p>
 - Link: https://github.com/SimonLim03/Flight-Fare-Prediction-App
-- Skills: Machine Learning (Regression), Streamlit, CatBoostRegressor
+- Skills: Machine Learning (Regression), Streamlit, CatBoostRegressor, Docker, Application
 <hr>
 
 ## Sales-Revenue-Prediction-App
 <p>
 This application involves two machine learning models that were established for business purposes. One model is a predictive model using a Machine Learning algorithm to accurately predict the sales revenue for a given item in a specific store at a given date. The other is a forecasting model using a time-series analysis that can forecast the total sales revenue across all stores and items for the next 7 days. The models have been deployed using Fastapi, Docker and Heroku, which enable models' access to users online anytime.
  </p>
-Link: https://github.com/SimonLim03/Sales-Revenue-Prediction-App
+- Link: https://github.com/SimonLim03/Sales-Revenue-Prediction-App
+- Machine Learning, Time-series Forecasting, Docker, Fastapi, Application
 <hr>
 
 ## Kaggle Competition (NBA Draft)
@@ -46,7 +47,8 @@ Link: https://github.com/SimonLim03/Sales-Revenue-Prediction-App
 <p>
 The objective of the project is build a model that will predict if a college basketball player will be drafted to join the NBA league based on his statistics for the current season.
  </p>
-Link: https://github.com/SimonLim03/Kaggle-Competition-NBA-Basketball-
+- Link: https://github.com/SimonLim03/Kaggle-Competition-NBA-Basketball-
+- Machine Learning, Kaggle Competition
 <hr>
 
 ## Youtube Trending Videos Data Lakehouse with Snowflake
@@ -54,7 +56,8 @@ Link: https://github.com/SimonLim03/Kaggle-Competition-NBA-Basketball-
 <p>
 Top trending videos are evaluated based on video’s number of views, shares, likes and comments etc. A dataset with a daily record of the top popular and trending videos has been extracted through YouTube API. The objective of the project is to analyse the dataset, which consists of CSVs and Jsons files, by using a Data Lakehouse with Snowflake. 
  </p>
-Link: https://github.com/SimonLim03/Youtube-Videos-Data-Lakehouse
+- Link: https://github.com/SimonLim03/Youtube-Videos-Data-Lakehouse
+- Snowflake, SQL, Data Analysis, Data Lakehouse
 <hr>
 
 ## New York City Taxi Data Processing with Spark

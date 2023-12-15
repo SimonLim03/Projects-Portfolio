@@ -17,7 +17,7 @@ my name is Simon Lim, a passionate data science student currently pursuing my Ma
 ### 🔍Research Interests:
 - Data Science
 - Machine Learning and Deep Learning
-- Big Data Engineering
+- Big Data Analysis
 
 
 # My Past Projects

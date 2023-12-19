@@ -24,7 +24,7 @@ my name is Simon Lim, a passionate data science student currently pursuing my Ma
 
 <hr>
 
-# Machine Learning and Deployment
+# Machine Learning Projects
 
 ## US Flight Fare Prediction App
 ![image](https://github.com/SimonLim03/Projects-Portfolio/assets/150989115/9b1bb9a0-b0e2-4dd3-8e16-b164def34d04)
@@ -53,54 +53,7 @@ The objective of the project is build a model that will predict if a college bas
 - Machine Learning, Kaggle Competition
 <hr>
 
-# Big Data Analysis
-
-## Youtube Trending Videos Data Lakehouse with Snowflake
-![image](https://github.com/SimonLim03/Projects-Portfolio/assets/150989115/4f685472-76f4-4523-8d00-55c80456cff1)
-<p>
-Top trending videos are evaluated based on video’s number of views, shares, likes and comments etc. A dataset with a daily record of the top popular and trending videos has been extracted through YouTube API. The objective of the project is to analyse the dataset, which consists of CSVs and Jsons files, by using a Data Lakehouse with Snowflake. 
- </p>
-- Link: https://github.com/SimonLim03/Youtube-Videos-Data-Lakehouse
-- Snowflake, SQL, Data Analysis, Data Lakehouse
-<hr>
-
-## New York City Taxi Data Processing with Spark
-![image](https://github.com/SimonLim03/Projects-Portfolio/assets/150989115/80817b79-ff7b-4c8f-ba59-1d7fba968cf8)
-<p>
-The objective of the project is to analyse a large dataset and obtain meaningful outcomes using Spark in Databricks. The procedure of the project includes data ingestion and preparation, data transformation and analysis and finally training a Machine Learning algorithm for predicting total amount of trips.
- </p>
-- Link: https://github.com/SimonLim03/Data-Processing-with-Databricks-Spark
-- Databricks, Pyspark, SQL, Big Data Analysis
-<hr>
-
-## Airbnb Data Pipelines using Airflow and DBT
-![image](https://github.com/SimonLim03/Projects-Portfolio/assets/150989115/4537a154-93a3-4786-b80e-3440b06dcfe0)
-<p>
-Airbnb records millions of various information in 191 countries, including density of rentals across regions, price variations across rentals and host-guest interactions (e.g., number of reviews). In this project, only data in Sydney are used with specific date range from May 2020 to April 2021. The objective of the project is to build production-ready data pipelines with Airflow, Data Build Tool and Postgres SQL.
- </p>
-- Link: https://github.com/SimonLim03/Airbnb-Data-Pipelines-with-Airflow-
-- Microsoft Azure, Airflow, DBT, PostgreSQL, Data pipeline
-<hr>
-
-# Natural Language Processing 
-## Covid-19-NLP-text-analysis
-<p>
-This project conducts text analysis using various techniques, including word count, word frequency, word association, k-mean clustering and sentiment analysis on dataset that is associated with the COVID-19 vaccine expressions and will try to find out the narrative and insights of the dataset. The dataset involves a variety of expressions for 181 common questions about COVID-19 vaccine.
- </p>
-- Link : https://github.com/SimonLim03/Covid-19-NLP-text-analysis
-- Covid-19, Text Analysis, Clustering
-<hr>
-
-## Amazon-Reviews-NLP-analysis
-![image](https://github.com/SimonLim03/Projects-Portfolio/assets/150989115/483f7e5e-5a7d-4f1b-8268-da725c55b3f4)
-<p>
-Online reviews are important for customers for a better understanding of the product and their purchasing decisions. Reviews can also help retailers to improve their service or product. This project aims to use NLP techniques to build prediction models to predict how helpful new reviews will be or gain insight into the features that influence helpfulness. To better understand the variety of NLP techniques, multiple NLP techniques have been used.
- </p>
-- Link: https://github.com/SimonLim03/Amazon-Reviews-NLP-analysis
-- NLP Text Analysis, Deep Learning, Clustering, Topic Modeling
-<hr>
-
-# Data Analysis and Narratives
+# Data Analysis Projects
 
 ## EDA on Google-Play-Store
 ![image](https://github.com/SimonLim03/Projects-Portfolio/assets/150989115/e66a81ba-1871-45e0-9d31-e5059f8ade7c)
@@ -163,6 +116,53 @@ The performance of the business company has been analyzed using SQL on a Postgre
  </p> 
 - Link: https://github.com/SimonLim03/Analysis-of-Company-Performance-SQL-
 - PostgreSQL, Data Analysis
+<hr>
+
+# Data Engineering Projects
+
+## Youtube Trending Videos Data Lakehouse with Snowflake
+![image](https://github.com/SimonLim03/Projects-Portfolio/assets/150989115/4f685472-76f4-4523-8d00-55c80456cff1)
+<p>
+Top trending videos are evaluated based on video’s number of views, shares, likes and comments etc. A dataset with a daily record of the top popular and trending videos has been extracted through YouTube API. The objective of the project is to analyse the dataset, which consists of CSVs and Jsons files, by using a Data Lakehouse with Snowflake. 
+ </p>
+- Link: https://github.com/SimonLim03/Youtube-Videos-Data-Lakehouse
+- Snowflake, SQL, Data Analysis, Data Lakehouse
+<hr>
+
+## New York City Taxi Data Processing with Spark
+![image](https://github.com/SimonLim03/Projects-Portfolio/assets/150989115/80817b79-ff7b-4c8f-ba59-1d7fba968cf8)
+<p>
+The objective of the project is to analyse a large dataset and obtain meaningful outcomes using Spark in Databricks. The procedure of the project includes data ingestion and preparation, data transformation and analysis and finally training a Machine Learning algorithm for predicting total amount of trips.
+ </p>
+- Link: https://github.com/SimonLim03/Data-Processing-with-Databricks-Spark
+- Databricks, Pyspark, SQL, Big Data Analysis
+<hr>
+
+## Airbnb Data Pipelines using Airflow and DBT
+![image](https://github.com/SimonLim03/Projects-Portfolio/assets/150989115/4537a154-93a3-4786-b80e-3440b06dcfe0)
+<p>
+Airbnb records millions of various information in 191 countries, including density of rentals across regions, price variations across rentals and host-guest interactions (e.g., number of reviews). In this project, only data in Sydney are used with specific date range from May 2020 to April 2021. The objective of the project is to build production-ready data pipelines with Airflow, Data Build Tool and Postgres SQL.
+ </p>
+- Link: https://github.com/SimonLim03/Airbnb-Data-Pipelines-with-Airflow-
+- Microsoft Azure, Airflow, DBT, PostgreSQL, Data pipeline
+<hr>
+
+# Natural Language Processing Projects
+## Covid-19-NLP-text-analysis
+<p>
+This project conducts text analysis using various techniques, including word count, word frequency, word association, k-mean clustering and sentiment analysis on dataset that is associated with the COVID-19 vaccine expressions and will try to find out the narrative and insights of the dataset. The dataset involves a variety of expressions for 181 common questions about COVID-19 vaccine.
+ </p>
+- Link : https://github.com/SimonLim03/Covid-19-NLP-text-analysis
+- Covid-19, Text Analysis, Clustering
+<hr>
+
+## Amazon-Reviews-NLP-analysis
+![image](https://github.com/SimonLim03/Projects-Portfolio/assets/150989115/483f7e5e-5a7d-4f1b-8268-da725c55b3f4)
+<p>
+Online reviews are important for customers for a better understanding of the product and their purchasing decisions. Reviews can also help retailers to improve their service or product. This project aims to use NLP techniques to build prediction models to predict how helpful new reviews will be or gain insight into the features that influence helpfulness. To better understand the variety of NLP techniques, multiple NLP techniques have been used.
+ </p>
+- Link: https://github.com/SimonLim03/Amazon-Reviews-NLP-analysis
+- NLP Text Analysis, Deep Learning, Clustering, Topic Modeling
 <hr>
 
 # Mini-Projects

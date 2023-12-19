@@ -24,6 +24,8 @@ my name is Simon Lim, a passionate data science student currently pursuing my Ma
 
 <hr>
 
+# Machine Learning and Deployment
+
 ## US Flight Fare Prediction App
 ![image](https://github.com/SimonLim03/Projects-Portfolio/assets/150989115/9b1bb9a0-b0e2-4dd3-8e16-b164def34d04)
 
@@ -50,6 +52,8 @@ The objective of the project is build a model that will predict if a college bas
 - Link: https://github.com/SimonLim03/Kaggle-Competition-NBA-Basketball-
 - Machine Learning, Kaggle Competition
 <hr>
+
+# Big Data Analysis
 
 ## Youtube Trending Videos Data Lakehouse with Snowflake
 ![image](https://github.com/SimonLim03/Projects-Portfolio/assets/150989115/4f685472-76f4-4523-8d00-55c80456cff1)
@@ -78,6 +82,7 @@ Airbnb records millions of various information in 191 countries, including densi
 - Microsoft Azure, Airflow, DBT, PostgreSQL, Data pipeline
 <hr>
 
+# Natural Language Processing 
 ## Covid-19-NLP-text-analysis
 <p>
 This project conducts text analysis using various techniques, including word count, word frequency, word association, k-mean clustering and sentiment analysis on dataset that is associated with the COVID-19 vaccine expressions and will try to find out the narrative and insights of the dataset. The dataset involves a variety of expressions for 181 common questions about COVID-19 vaccine.
@@ -94,6 +99,8 @@ Online reviews are important for customers for a better understanding of the pro
 - Link: https://github.com/SimonLim03/Amazon-Reviews-NLP-analysis
 - NLP Text Analysis, Deep Learning, Clustering, Topic Modeling
 <hr>
+
+# Data Analysis and Narratives
 
 ## EDA on Google-Play-Store
 ![image](https://github.com/SimonLim03/Projects-Portfolio/assets/150989115/e66a81ba-1871-45e0-9d31-e5059f8ade7c)
@@ -114,7 +121,6 @@ Data narrative and visualization on World University Ranking using Tableau
 <hr>
 
 ## Data-Visualization-on-Covid-19-Cases
-
 <p>
 Data narrative and visualization on Covid-19 cases and deaths using Python packages
  </p> 
@@ -159,6 +165,7 @@ The performance of the business company has been analyzed using SQL on a Postgre
 - PostgreSQL, Data Analysis
 <hr>
 
+# Mini-Projects
 ## Currency Converter Using Python API
 ![image](https://github.com/SimonLim03/Projects-Portfolio/assets/150989115/97255b08-f1cb-4be1-a3e6-0f9140618be0)
 <p>
@@ -169,7 +176,7 @@ Streamlit is used to deploy an application. The application is available for fre
 - API, Streamlit
 <hr>
 
-# Mini-Projects
+
 
 
 

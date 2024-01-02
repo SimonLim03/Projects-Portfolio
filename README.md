@@ -58,7 +58,7 @@ The objective of the project is build a model that will predict if a college bas
 ## EDA on Google-Play-Store
 ![image](https://github.com/SimonLim03/Projects-Portfolio/assets/150989115/e66a81ba-1871-45e0-9d31-e5059f8ade7c)
 <p>
-ThE project tries to solve if there is any issue in Google Play Store applications and investigate any application trend in the Google Play Store.
+The project explores data about Google Play Store applications and analyzes the relationships and overall trends of current applications in Google Play Store. 
  </p> 
 - Link: https://github.com/SimonLim03/Google-Play-Store-EDA-
 - Exploratory Data Analysis, Data Visualization, Kaggle, Python

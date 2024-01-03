@@ -64,13 +64,22 @@ The project explores data about Google Play Store applications and analyzes the 
 - Exploratory Data Analysis, Data Visualization, Kaggle, Python
 <hr>
 
-## Data-Visualization-on-World-University-Ranking using Tableau
-![image](https://github.com/SimonLim03/Projects-Portfolio/assets/150989115/ea4ee11d-a39a-4113-86c9-6279af1949f7)
+## Waste-and-Recycling-Data-Narratives (Advertisement)
+![image](https://github.com/SimonLim03/Projects-Portfolio/assets/150989115/e6e4afcd-dbe8-4ae2-ba33-b5e6233f063a)
 <p>
-Data narrative and visualization on World University Ranking using Tableau
+This purpose of the project is to reduce the rubbish residents generate and encourage people to recycle more. The current situations and problems have been described, analysed and visualized and appropriate solutions have been provided. This project has been crafted like a public advertisement.
  </p> 
-- Link: https://github.com/SimonLim03/Data-Visualization-on-World-University-Ranking-Tableau-
-- Tableau, Data Visualization, Exploratory Data Analysis
+- Link: https://github.com/SimonLim03/Waste-and-Recycling-Data-Narratives
+- Data Narratives, Data Visualization, Advertisement
+<hr>
+
+## Analysis-of-Company-Performance-SQL-
+![image](https://github.com/SimonLim03/Projects-Portfolio/assets/150989115/f74fa635-5af5-4ae2-937c-90a5d3dedce7)
+<p>
+The performance of the business company has been analyzed using SQL on a Postgres SQL database.
+ </p> 
+- Link: https://github.com/SimonLim03/Analysis-of-Company-Performance-SQL-
+- PostgreSQL, Data Analysis
 <hr>
 
 ## Data-Visualization-on-Covid-19-Cases
@@ -100,22 +109,13 @@ The main objective of the project is to build statistical learning models that c
 - Machine Learning (Classification), EDA, Bayesian Estimation, Bayesian Optimization
 <hr>
 
-## Waste-and-Recycling-Data-Narratives (Advertisement)
-![image](https://github.com/SimonLim03/Projects-Portfolio/assets/150989115/e6e4afcd-dbe8-4ae2-ba33-b5e6233f063a)
+## Data-Visualization-on-World-University-Ranking using Tableau
+![image](https://github.com/SimonLim03/Projects-Portfolio/assets/150989115/ea4ee11d-a39a-4113-86c9-6279af1949f7)
 <p>
-This purpose of the project is to reduce the rubbish residents generate and encourage people to recycle more. The current situations and problems have been described, analysed and visualized and appropriate solutions have been provided. This project has been crafted like a public advertisement.
+Data narrative and visualization on World University Ranking using Tableau
  </p> 
-- Link: https://github.com/SimonLim03/Waste-and-Recycling-Data-Narratives
-- Data Narratives, Data Visualization, Advertisement
-<hr>
-
-## Analysis-of-Company-Performance-SQL-
-![image](https://github.com/SimonLim03/Projects-Portfolio/assets/150989115/f74fa635-5af5-4ae2-937c-90a5d3dedce7)
-<p>
-The performance of the business company has been analyzed using SQL on a Postgres SQL database.
- </p> 
-- Link: https://github.com/SimonLim03/Analysis-of-Company-Performance-SQL-
-- PostgreSQL, Data Analysis
+- Link: https://github.com/SimonLim03/Data-Visualization-on-World-University-Ranking-Tableau-
+- Tableau, Data Visualization, Exploratory Data Analysis
 <hr>
 
 # Data Engineering Projects

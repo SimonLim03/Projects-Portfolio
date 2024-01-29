@@ -6,7 +6,7 @@ my name is Simon Lim, a passionate data science student currently pursuing my Ma
 
 
 
-<p>I have a deep passion for understanding how things work and exploring the patterns that underlie them. My curiosity drives me to delve into diverse topics, seeking insights and solutions. I am particularly drawn to the field of data science, where professionals with varied backgrounds and skills come together to solve complex problems. What excites me most is not only solving problems but also crafting new approaches, products, and services. In my past projects, I have engaged in a wide range of data science endeavors, including developing machine learning and deep learning applications, working with NLP, processing Big Data, and creating data narratives. I am well-versed in various data science techniques and tools, such as Snowflake, Airflow and Databricks, and have successfully implemented projects using these tools. 
+<p>I have a deep passion for understanding how things work and exploring the patterns that underlie them. My curiosity drives me to delve into diverse topics, seeking insights and solutions. I am particularly drawn to the field of data science, where professionals with varied backgrounds and skills come together to solve complex problems. What excites me most is not only solving problems but also crafting new approaches, products, and services. In my past projects, I have engaged in a wide range of data science endeavors, including developing machine learning and deep learning applications, working with NLP, processing Big Data, and creating data narratives. I am well-versed in various data science tools and clouding platform, such as Snowflake, Azure and Airflow, and have successfully implemented projects using these tools. 
 </p>
 
 

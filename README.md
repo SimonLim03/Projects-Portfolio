@@ -50,28 +50,28 @@ The objective of the project is build a model that will predict if a college bas
 
 # Data Processing and Analysis Projects
 
-## Youtube Trending Videos Data Lakehouse with Snowflake
+## Youtube Trending Videos Data Analysis with Snowflake
 ![image](https://github.com/SimonLim03/Projects-Portfolio/assets/150989115/4f685472-76f4-4523-8d00-55c80456cff1)
 <p>
-Top trending videos are evaluated based on video’s number of views, shares, likes and comments etc. A dataset with a daily record of the top popular and trending videos has been extracted through YouTube API. The objective of the project is to analyse the dataset, which consists of CSVs and Jsons files, by using a Data Lakehouse with Snowflake. 
+Top trending videos are evaluated based on video’s number of views, shares, likes and comments etc. A dataset with a daily record of the top popular and trending videos has been extracted through YouTube API. The objective of the project is to analyse the dataset, which consists of CSVs and Jsons files, by using a Data Lakehouse with Snowflake. Analysis of Youtube Trending Videos has helped youtube creators by providing current trending video categories and channels that have been mostly created and viewed in Youtube. 
  </p>
 - Link: https://github.com/SimonLim03/Youtube-Videos-Data-Lakehouse
 - Snowflake, SQL, Data Analysis, Data Lakehouse
 <hr>
 
-## New York City Taxi Data Processing with Spark
+## New York City Taxi Data Processing and Analysis with Spark
 ![image](https://github.com/SimonLim03/Projects-Portfolio/assets/150989115/80817b79-ff7b-4c8f-ba59-1d7fba968cf8)
 <p>
-The objective of the project is to analyse a large dataset and obtain meaningful outcomes using Spark in Databricks. The procedure of the project includes data ingestion and preparation, data transformation and analysis and finally training a Machine Learning algorithm for predicting total amount of trips.
+The objective of the project is to analyse a large dataset and obtain meaningful outcomes using Spark in Databricks. The procedure of the project includes data ingestion and preparation, data transformation and analysis and finally training a Machine Learning algorithm for predicting total amount of trips. Analysis of New York City Taxi has given a comprehensive overview of total amount of trips in New York. Also, it provided a specific time range that taxi drivers can make the highest amounts of trips.
  </p>
 - Link: https://github.com/SimonLim03/Data-Processing-with-Databricks-Spark
 - Databricks, Pyspark, SQL, Big Data Analysis
 <hr>
 
-## Airbnb Data Pipelines using Airflow and DBT
+## Airbnb Data Pipelines using Airflow
 ![image](https://github.com/SimonLim03/Projects-Portfolio/assets/150989115/4537a154-93a3-4786-b80e-3440b06dcfe0)
 <p>
-Airbnb records millions of various information in 191 countries, including density of rentals across regions, price variations across rentals and host-guest interactions (e.g., number of reviews). In this project, only data in Sydney are used with specific date range from May 2020 to April 2021. The objective of the project is to build production-ready data pipelines with Airflow, Data Build Tool and Postgres SQL.
+Airbnb records millions of various information in 191 countries, including density of rentals across regions, price variations across rentals and host-guest interactions (e.g., number of reviews). In this project, only data in Sydney are used with specific date range from May 2020 to April 2021. The objective of the project is to build production-ready data pipelines with Airflow, Data Build Tool and Postgres SQL. Data pipelines and analysis on Airbnb provided an overview of the average revenue, total number of stays and the proportions of age ranges depending on different suburb, property type and room type.  
  </p>
 - Link: https://github.com/SimonLim03/Airbnb-Data-Pipelines-with-Airflow-
 - Microsoft Azure, Airflow, DBT, PostgreSQL, Data pipeline

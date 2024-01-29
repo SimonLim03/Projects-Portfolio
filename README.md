@@ -25,7 +25,7 @@ my name is Simon Lim, a passionate data science student currently pursuing my Ma
 
 <p>
 A machine learning product, which can predict the expected flight fare for different airport trips. In particular, this project split the travel airfare into 4 different fares, including minimum, median, modal and mean of airfare. The models with CatBoostRegressor showed a great performance and provided a comprehensive overview of potential airports fares to users. 
-To enable model’s access to users, Strealit was used for model deployment, enabling users to use the models as a application.
+To enable model’s access to users, Streamlit was used for model deployment, enabling users to use the models as a application.
  </p>
 - Link: https://github.com/SimonLim03/Flight-Fare-Prediction-App
 - Machine Learning, Streamlit, CatBoostRegressor, Docker, Application

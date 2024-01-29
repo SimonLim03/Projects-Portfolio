@@ -53,7 +53,7 @@ The objective of the project is build a model that will predict if a college bas
 ## Youtube Trending Videos Data Analysis with Snowflake
 ![image](https://github.com/SimonLim03/Projects-Portfolio/assets/150989115/4f685472-76f4-4523-8d00-55c80456cff1)
 <p>
-Top trending videos are evaluated based on video’s number of views, shares, likes and comments etc. A dataset with a daily record of the top popular and trending videos has been extracted through YouTube API. The objective of the project is to analyse the dataset, which consists of CSVs and Jsons files, by using a Data Lakehouse with Snowflake. Analysis of Youtube Trending Videos has helped youtube creators by providing current trending video categories and channels that have been mostly created and viewed in Youtube. 
+Top trending videos are evaluated based on video’s number of views, shares, likes and comments etc. A dataset with a daily record of the top popular and trending videos has been extracted through YouTube API. The objective of the project is to analyse the dataset, which consists of CSVs and Jsons files, by using a Data Lakehouse with Snowflake. Analysis of Youtube Trending Videos has helped youtube creators by providing current trending video categories and channels that have been mostly created and viewed on Youtube. 
  </p>
 - Link: https://github.com/SimonLim03/Youtube-Videos-Data-Lakehouse
 - Snowflake, SQL, Data Analysis, Data Lakehouse

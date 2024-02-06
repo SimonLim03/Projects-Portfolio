@@ -26,7 +26,9 @@ my name is Simon Lim, a passionate data science student currently pursuing my Ma
 <p>
 A machine learning product, which can predict the expected flight fare for different airport trips. In particular, this project split the travel airfare into 4 different fares, including minimum, median, modal and mean of airfare. The models with CatBoostRegressor showed a great performance and provided a comprehensive overview of potential airports fares to users. 
 To enable model’s access to users, Streamlit was used for model deployment, enabling users to use the models as a application.
- </p>
+</p>
+
+
 - Link: https://github.com/SimonLim03/Flight-Fare-Prediction-App
 - Machine Learning, Streamlit, CatBoostRegressor, Docker, Application
 <hr>
@@ -34,7 +36,9 @@ To enable model’s access to users, Streamlit was used for model deployment, en
 ## Sales-Revenue-Prediction-App
 <p>
 This application involves two machine learning models that were established for business purposes. One model is a predictive model using a Machine Learning algorithm to accurately predict the sales revenue for a given item in a specific store at a given date.The other is a forecasting model using a time-series analysis that can forecast the total sales revenue across all stores and items for the next 7 days. Two different models helped users to get a comprehensive overviews of sales revenue across stores. The models have been deployed using Fastapi, Docker and Heroku, which enable models' access to users online anytime.
- </p>
+</p>
+
+
 - Link: https://github.com/SimonLim03/Sales-Revenue-Prediction-App
 - Machine Learning, Time-series Forecasting, Docker, Fastapi, Application
 <hr>
@@ -43,7 +47,9 @@ This application involves two machine learning models that were established for 
 ![image](https://github.com/SimonLim03/Projects-Portfolio/assets/150989115/b9ebd370-3bf7-4942-b8a9-f1aea9e4cf6f)
 <p>
 The objective of the project is build a model that will predict if a college basketball player will be drafted to join the NBA league based on his statistics for the current season. The models provided potential NBA players to NBA teams and coaches. 
- </p>
+</p>
+
+
 - Link: https://github.com/SimonLim03/Kaggle-Competition-NBA-Basketball-
 - Machine Learning, Kaggle Competition
 <hr>
@@ -54,7 +60,9 @@ The objective of the project is build a model that will predict if a college bas
 ![image](https://github.com/SimonLim03/Projects-Portfolio/assets/150989115/4f685472-76f4-4523-8d00-55c80456cff1)
 <p>
 Top trending videos are evaluated based on video’s number of views, shares, likes and comments etc. A dataset with a daily record of the top popular and trending videos has been extracted through YouTube API. The objective of the project is to analyse the dataset, which consists of CSVs and Jsons files, by using a Data Lakehouse with Snowflake. Analysis of Youtube Trending Videos has helped youtube creators by providing current trending video categories and channels that have been mostly created and viewed on Youtube. 
- </p>
+</p>
+
+
 - Link: https://github.com/SimonLim03/Youtube-Videos-Data-Lakehouse
 - Snowflake, SQL, Data Analysis, Data Lakehouse
 <hr>
@@ -63,7 +71,9 @@ Top trending videos are evaluated based on video’s number of views, shares, li
 ![image](https://github.com/SimonLim03/Projects-Portfolio/assets/150989115/80817b79-ff7b-4c8f-ba59-1d7fba968cf8)
 <p>
 The objective of the project is to analyse a large dataset and obtain meaningful outcomes using Spark in Databricks. The procedure of the project includes data ingestion and preparation, data transformation and analysis and finally training a Machine Learning algorithm for predicting total amount of trips. Analysis of New York City Taxi has given a comprehensive overview of total amount of trips in New York. Also, it provided a specific time range that taxi drivers can make the highest amounts of trips.
- </p>
+</p>
+
+
 - Link: https://github.com/SimonLim03/Data-Processing-with-Databricks-Spark
 - Databricks, Pyspark, SQL, Big Data Analysis
 <hr>
@@ -72,7 +82,9 @@ The objective of the project is to analyse a large dataset and obtain meaningful
 ![image](https://github.com/SimonLim03/Projects-Portfolio/assets/150989115/4537a154-93a3-4786-b80e-3440b06dcfe0)
 <p>
 Airbnb records millions of various information in 191 countries, including density of rentals across regions, price variations across rentals and host-guest interactions (e.g., number of reviews). In this project, only data in Sydney are used with specific date range from May 2020 to April 2021. The objective of the project is to build production-ready data pipelines with Airflow, Data Build Tool and Postgres SQL. Data pipelines and analysis on Airbnb provided an overview of the average revenue, total number of stays and the proportions of age ranges depending on different suburb, property type and room type.  
- </p>
+</p>
+
+
 - Link: https://github.com/SimonLim03/Airbnb-Data-Pipelines-with-Airflow-
 - Microsoft Azure, Airflow, DBT, PostgreSQL, Data pipeline
 <hr>
@@ -81,7 +93,9 @@ Airbnb records millions of various information in 191 countries, including densi
 ![image](https://github.com/SimonLim03/Projects-Portfolio/assets/150989115/e66a81ba-1871-45e0-9d31-e5059f8ade7c)
 <p>
 The project explores data about Google Play Store applications and analyzes the relationships and overall trends of current applications in Google Play Store. 
- </p> 
+</p> 
+
+
 - Link: https://github.com/SimonLim03/Google-Play-Store-EDA-
 - Exploratory Data Analysis, Data Visualization, Kaggle, Python
 <hr>
@@ -90,7 +104,9 @@ The project explores data about Google Play Store applications and analyzes the 
 ![image](https://github.com/SimonLim03/Projects-Portfolio/assets/150989115/e6e4afcd-dbe8-4ae2-ba33-b5e6233f063a)
 <p>
 This purpose of the project is to reduce the rubbish residents generate and encourage people to recycle more. The current situations and problems have been described, analysed and visualized and appropriate solutions have been provided. This project has been crafted like a public advertisement.
- </p> 
+</p> 
+
+
 - Link: https://github.com/SimonLim03/Waste-and-Recycling-Data-Narratives
 - Data Narratives, Data Visualization, Advertisement
 <hr>
@@ -99,7 +115,9 @@ This purpose of the project is to reduce the rubbish residents generate and enco
 ![image](https://github.com/SimonLim03/Projects-Portfolio/assets/150989115/f74fa635-5af5-4ae2-937c-90a5d3dedce7)
 <p>
 The performance of the business company has been analyzed using SQL on a Postgres SQL database.
- </p> 
+</p> 
+
+
 - Link: https://github.com/SimonLim03/Analysis-of-Company-Performance-SQL-
 - PostgreSQL, Data Analysis
 <hr>
@@ -107,7 +125,9 @@ The performance of the business company has been analyzed using SQL on a Postgre
 ## Data-Visualization-on-Covid-19-Cases
 <p>
 Data narrative and visualization on Covid-19 cases and deaths using Python packages
- </p> 
+</p>
+
+
 - Link: https://github.com/SimonLim03/Data-Visualization-on-Covid-19-Cases
 - Data Visualization, Python
 <hr>
@@ -126,7 +146,9 @@ This project aims to provide insights to the majority of Sydney suburbs, types o
 ![image](https://github.com/SimonLim03/Projects-Portfolio/assets/150989115/b55c2d44-6116-4e16-8812-db7e6b76d902)
 <p>
 The main objective of the project is to build statistical learning models that can successfully identify the customer segments that are the most responsive to marketing campaigns. Furthermore, the project also aims at finding three effective business strategies that can help the company in making decisions for their marketing campaigns.
- </p> 
+</p> 
+
+ 
 - Link: https://github.com/SimonLim03/Data-analysis-for-marketing-campaigns
 - Machine Learning (Classification), EDA, Bayesian Estimation, Bayesian Optimization
 <hr>
@@ -135,7 +157,9 @@ The main objective of the project is to build statistical learning models that c
 ![image](https://github.com/SimonLim03/Projects-Portfolio/assets/150989115/ea4ee11d-a39a-4113-86c9-6279af1949f7)
 <p>
 Data narrative and visualization on World University Ranking using Tableau
- </p> 
+</p> 
+
+ 
 - Link: https://github.com/SimonLim03/Data-Visualization-on-World-University-Ranking-Tableau-
 - Tableau, Data Visualization, Exploratory Data Analysis
 <hr>
@@ -147,6 +171,8 @@ Data narrative and visualization on World University Ranking using Tableau
 <p>
 This project conducts text analysis using various techniques, including word count, word frequency, word association, k-mean clustering and sentiment analysis on dataset that is associated with the COVID-19 vaccine expressions and will try to find out the narrative and insights of the dataset. The dataset involves a variety of expressions for 181 common questions about COVID-19 vaccine.
  </p>
+
+ 
 - Link : https://github.com/SimonLim03/Covid-19-NLP-text-analysis
 - Covid-19, Text Analysis, Clustering
 <hr>
@@ -156,6 +182,8 @@ This project conducts text analysis using various techniques, including word cou
 <p>
 Online reviews are important for customers for a better understanding of the product and their purchasing decisions. Reviews can also help retailers to improve their service or product. This project aims to use NLP techniques to build prediction models to predict how helpful new reviews will be or gain insight into the features that influence helpfulness. To better understand the variety of NLP techniques, multiple NLP techniques have been used.
  </p>
+
+ 
 - Link: https://github.com/SimonLim03/Amazon-Reviews-NLP-analysis
 - NLP Text Analysis, Deep Learning, Clustering, Topic Modeling
 <hr>

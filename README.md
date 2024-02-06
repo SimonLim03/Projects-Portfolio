@@ -153,6 +153,18 @@ The main objective of the project is to build statistical learning models that c
 - Machine Learning (Classification), EDA, Bayesian Estimation, Bayesian Optimization
 <hr>
 
+## Quantified-Self Project
+![image](https://github.com/SimonLim03/Projects-Portfolio/assets/150989115/a1154742-c806-4110-a40d-a8019feedd49)
+
+<p>
+The project involves collecting data in our daily life using mobile phone and self-tracking tools and analyze collected data about various aspects of our daily life. The goal of the project was to gain insights into personal behavior, performance and emotions by tracking and quantifying different aspects of one's life.  
+</p> 
+
+ 
+- Link: https://github.com/SimonLim03/Quantified-Self-Project
+- R, Self-tracking, Data Visualization, Data Collection, Data Cleaning, Data Analysis, Data Ethics
+<hr>
+
 ## Data-Visualization-on-World-University-Ranking using Tableau
 ![image](https://github.com/SimonLim03/Projects-Portfolio/assets/150989115/ea4ee11d-a39a-4113-86c9-6279af1949f7)
 <p>

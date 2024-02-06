@@ -171,7 +171,15 @@ Streamlit is used to deploy an application. The application is available for fre
 - API, Streamlit
 <hr>
 
+## The Interaction between Data Science Innovation and Psychology
+![image](https://github.com/SimonLim03/Projects-Portfolio/assets/150989115/0ed24ab0-a482-4d66-8aa0-a5f5985fe896)
+<p>
+A professional paper, drawing on the analysis of the potential opportunities and implementation considerations for data-driven innovation within the context of psychological field.
+</p>
 
+- Link: https://github.com/SimonLim03/Analysis-of-Contemporary-Trends-in-Data-Science-Research-Paper-
+- Data-driven method, psychology, data innovation
+<hr>
 
 
 

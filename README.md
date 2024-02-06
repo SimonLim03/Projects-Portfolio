@@ -48,7 +48,7 @@ The objective of the project is build a model that will predict if a college bas
 - Machine Learning, Kaggle Competition
 <hr>
 
-# Data Processing and Analysis Projects
+# Data Engineering and Analysis Projects
 
 ## Youtube Trending Videos Data Analysis with Snowflake
 ![image](https://github.com/SimonLim03/Projects-Portfolio/assets/150989115/4f685472-76f4-4523-8d00-55c80456cff1)

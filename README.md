@@ -166,8 +166,10 @@ Online reviews are important for customers for a better understanding of the pro
 <p>
 This application is a currency converter, which allows to quickly convert one currency to another currency. This project used an open-source API: https://www.frankfurter.app/.
 Streamlit is used to deploy an application. The application is available for free
- </p> 
-- Link: https://github.com/SimonLim03/Currency-Exchange-Program-
+</p>
+
+
+- Link: https://github.com/SimonLim03/Currency-Exchange-Program
 - API, Streamlit
 <hr>
 

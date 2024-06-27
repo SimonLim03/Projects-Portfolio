@@ -219,8 +219,19 @@ Streamlit is used to deploy an application. The application is available for fre
 A professional paper, drawing on the analysis of the potential opportunities and implementation considerations for data-driven innovation within the context of psychological field.
 </p>
 
+
 - Link: https://github.com/SimonLim03/Analysis-of-Contemporary-Trends-in-Data-Science-Research-Paper-
 - Data-driven method, psychology, data innovation
+<hr>
+
+## Minigame Collections
+![image](https://github.com/SimonLim03/Projects-Portfolio/assets/150989115/a87fed20-5952-4007-94e5-20dd4682f2ed)
+<p>
+Three simple traditional games, including Tetris, 'Avoid Poop', Pop the Balloon. 
+</p>
+
+- Link: https://github.com/SimonLim03/MINIGAME-COLLECTION
+- Tetris, Avoid Poop, Pop the Balloon
 <hr>
 
 

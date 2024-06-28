@@ -2,7 +2,7 @@
 
   
 Hello
-my name is Simon Lim, a passionate data science student currently pursuing my Master's in Data Science at the University of Technology Sydney (UTS).
+my name is Simon Lim and I have recently graduated my Master's in Data Science at the University of Technology Sydney (UTS).
 
 
 
@@ -12,7 +12,7 @@ my name is Simon Lim, a passionate data science student currently pursuing my Ma
 
   
 ### Education:
-- Master of Data Science, University of Technology Sydney (UTS)
+- Master of Data Science and Innvoation, University of Technology Sydney (UTS)
   
 # My Past Projects
 

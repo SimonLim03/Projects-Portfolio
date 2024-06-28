@@ -67,6 +67,19 @@ Top trending videos are evaluated based on video’s number of views, shares, li
 - Snowflake, SQL, Data Analysis, Data Lakehouse
 <hr>
 
+## EcoHealth Visualization Webpage
+![image](https://github.com/SimonLim03/Projects-Portfolio/assets/150989115/bee8ab6d-1ad9-4207-9196-68c2afb78887)
+
+<p>
+This webpage is built by team EcoHealth. This page serves as a comprehensive resource for exploring the profound impact of pollution on global health. Through detailed visualizations, information, and curated content, visitors will gain an in-depth understanding of how various pollutants adversely affect the environment and consequently, human health. By examining the interconnections between air, water, and soil pollution and the incidence of health conditions worldwide, this platform aims to raise awareness and encourage proactive measures. It's an invaluable tool for educators, policymakers, and individuals alike, offering insights into the significance of environmental preservation and the urgent need for sustainable practices to safeguard our planet and our well-being.
+</p>
+
+
+- Link: https://github.com/SimonUTS24661225/ILab-Project/tree/master
+- GoogleLooker, Tableau, Streamlit
+- Webpage: https://ilab-project-bfujiqbkuwgur9zecrjqfn.streamlit.app/
+<hr>
+
 ## New York City Taxi Data Processing and Analysis with Spark
 ![image](https://github.com/SimonLim03/Projects-Portfolio/assets/150989115/80817b79-ff7b-4c8f-ba59-1d7fba968cf8)
 <p>

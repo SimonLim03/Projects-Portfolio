@@ -54,6 +54,16 @@ The objective of the project is build a model that will predict if a college bas
 - Machine Learning, Kaggle Competition
 <hr>
 
+## Image Captioning
+![Screenshot (319)](https://github.com/SimonLim03/Projects-Portfolio/assets/150989115/44308f89-9f3c-4ad5-abf4-3326056885ef)
+<p>
+-	Developed feature extraction capabilities using CNN models (Resnet, V3 and GoogleNet), paired with a sequence-based LSTM model, to accurately generate relevant captions for images.
+</p>
+
+- Link: https://github.com/SimonLim03/Image-Captioning/tree/main
+- Deep earning, CNN, RNN
+<hr>
+
 # Data Engineering and Analysis Projects
 
 ## Youtube Trending Videos Data Analysis with Snowflake

@@ -6,7 +6,11 @@ my name is Simon Lim and I have recently graduated my Master's in Data Science a
 
 
 
-<p>I have a deep passion for understanding how things work and exploring the patterns that underlie them. My curiosity drives me to delve into diverse topics, seeking insights and solutions. I am particularly drawn to the field of data science, where professionals with varied backgrounds and skills come together to solve complex problems. What excites me most is not only solving problems but also crafting new approaches, products, and services. In my past projects, I have engaged in a wide range of data science endeavors, including developing machine learning and deep learning applications, working with NLP, processing Big Data, and creating data narratives. I am well-versed in various data science tools and clouding platform, such as Snowflake, Azure and Airflow, and have successfully implemented projects using these tools. 
+<p>During my academic journey, I had the opportunity to apply and enhance my technical skills through various projects, where I utilized a range of tools and technologies.
+In data analysis projects, such as exploratory data analysis on the Google Play Store and marketing campaign analysis, I primarily used SQL and PostgreSQL for data integration, manipulation, and aggregation. After transforming and cleaning the data using SQL, I typically turned to Python or Power BI for data visualization and Python for data mining and statistical analysis. When handling large datasets, I employed big data platforms like Snowflake, Databricks, or Google Cloud Platform to efficiently process the data. 
+For data storage and sharing, I relied on online tools such as GitHub, Streamlit, and Docker.
+In machine learning and deep learning projects, I predominantly used Python to build various regression, classification, and neural network models. Python's extensive libraries and frameworks provided a wide array of options for developing optimal models, while also facilitating efficient data handling and manipulation.
+
 </p>
 
 

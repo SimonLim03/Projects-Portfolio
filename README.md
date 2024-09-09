@@ -1,9 +1,6 @@
 # Portfolio
 
   
-Hello
-my name is Simon Lim and I have recently graduated my Master's in Data Science at the University of Technology Sydney (UTS).
-
 
 
 <p>During my academic journey, I had the opportunity to apply and enhance my technical skills through various projects, where I utilized a range of tools and technologies.

@@ -11,9 +11,7 @@ In machine learning and deep learning projects, I predominantly used Python to b
 </p>
 
 
-  
-### Education:
-- Master of Data Science and Innvoation, University of Technology Sydney (UTS)
+
   
 # My Past Projects
 

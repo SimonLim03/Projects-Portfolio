@@ -18,9 +18,13 @@ In machine learning and deep learning projects, I predominantly used Python to b
 
 
 # Professional Development
-The best way to showcase skills is by doing and sharing your job done but sometimes certificates appear to be as an indirect result. Here's a list of the ones I have 
+###The best way to showcase skills is by doing and sharing your job done but sometimes certificates appear to be as an indirect result. Here's a list of the ones I have 
 
 - [Google Data Analytics Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/XS4FFDKCGZ2A) (Jan 2022) (Coursera - Google)
+- [SQL Associate Certificate](https://www.datacamp.com/certificate/SQA0010873350852) (Feb 2024) (Datacamp)
+- [Data Scientist Associate Certificate](https://www.datacamp.com/certificate/DSA0010896916681) (Feb 2024) (Datacamp)
+- [Relational Database Administration (DBA)](https://www.coursera.org/account/accomplishments/verify/XTYSNA8CNHP3) (Jan 2024) (Coursera - IBM)
+- [Microsoft Azure Fundamentals AZ-900 Exam Prep](https://www.coursera.org/account/accomplishments/specialization/GBAAHANVEYBP) (2024) (Coursera - Micrisoft)
   
 # My Past Projects
 

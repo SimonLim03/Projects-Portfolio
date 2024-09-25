@@ -3,9 +3,10 @@
   
 
 
-<p> During my academic journey, I had the opportunity to apply and enhance my technical skills through various projects, where I utilized a range of tools and technologies.
-In data analysis projects, such as exploratory data analysis on the Google Play Store and marketing campaign analysis, I primarily used SQL and PostgreSQL for data integration, manipulation, and aggregation. After transforming and cleaning the data using SQL, I typically turned to Python or Power BI for data visualization and Python for data mining and statistical analysis. When handling large datasets, I employed big data platforms like Snowflake, Databricks, or Google Cloud Platform to efficiently process the data. 
-For data storage and sharing, I relied on online tools such as GitHub, Streamlit, and Docker.
+<p> 
+- During my academic journey, I had the opportunity to apply and enhance my technical skills through various projects, where I utilized a range of tools and technologies.
+- In data analysis projects, such as exploratory data analysis on the Google Play Store and marketing campaign analysis, I primarily used SQL and PostgreSQL for data integration, manipulation, and aggregation. After transforming and cleaning the data using SQL, I typically turned to Python or Power BI for data visualization and Python for data mining and statistical analysis. When handling large datasets, I employed big data platforms like Snowflake, Databricks, or Google Cloud Platform to efficiently process the data. 
+- For data storage and sharing, I relied on online tools such as GitHub, Streamlit, and Docker.
 In machine learning and deep learning projects, I predominantly used Python to build various regression, classification, and neural network models. Python's extensive libraries and frameworks provided a wide array of options for developing optimal models, while also facilitating efficient data handling and manipulation.
 
 </p> 

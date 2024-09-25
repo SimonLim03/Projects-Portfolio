@@ -12,9 +12,9 @@ In machine learning and deep learning projects, I predominantly used Python to b
 
 
 # Education
-University of Technology Sydney, Sydney: 
-Master of Data Science and Innovation,
-July 2022 - July 2024
+- University of Technology Sydney, Sydney: 
+- Master of Data Science and Innovation,
+- July 2022 - July 2024
 
 Australian National University, Canberra: 
 Bachelor of Science (Psychology),

@@ -13,11 +13,11 @@ In machine learning and deep learning projects, I predominantly used Python to b
 
 # Education
 - Master of Data Science and Innovation,
-University of Technology Sydney
+* University of Technology Sydney
 July 2022 – July 2024
 
 - Bachelor of Science (Psychology)
-Australian National University
+* Australian National University
 February 2018 – November 2021
 
 

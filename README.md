@@ -18,8 +18,9 @@ In machine learning and deep learning projects, I predominantly used Python to b
 
 
 # Professional Development
+The best way to showcase skills is by doing and sharing your job done but sometimes certificates appear to be as an indirect result. Here's a list of the ones I have 
 
-
+- [Google Data Analytics Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/XS4FFDKCGZ2A) (Jan 2022) (Coursera - Google)
   
 # My Past Projects
 

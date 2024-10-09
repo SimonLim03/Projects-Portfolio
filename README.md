@@ -39,16 +39,14 @@ The best way to showcase skills is by doing and sharing your job done but someti
 ![image](https://github.com/SimonLim03/Projects-Portfolio/assets/150989115/9b1bb9a0-b0e2-4dd3-8e16-b164def34d04)
 
 <p>
+  
 -	Description: Developed a flight fare prediction model to segment fares into categories and provide real-time fare predictions.
   
--	Technologies Used: Python, Streamlit.
-
 -	Role: Built and deployed a prediction model, developed an interactive user interface for real-time access.
 </p>
 
-
 - Link: https://github.com/SimonLim03/Flight-Fare-Prediction-App
-- Machine Learning, Streamlit, CatBoostRegressor, Docker, Application
+- Technologies Used: Python, Streamlit, Docker.
 <hr>
 
 ## Sales-Revenue-Prediction-App

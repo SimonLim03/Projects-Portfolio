@@ -70,13 +70,13 @@ The best way to showcase skills is by doing and sharing your job done but someti
 ![image](https://github.com/SimonLim03/Projects-Portfolio/assets/150989115/b9ebd370-3bf7-4942-b8a9-f1aea9e4cf6f)
 <p>
   
-**Description**: Developed a predictive model to determine whether a college basketball player will be drafted into the NBA based on their current season statistics.
+- **Description**: Developed a predictive model to determine whether a college basketball player will be drafted into the NBA based on their current season statistics.
 
-**Role**: Built and deployed the prediction model, providing insights for NBA teams and coaches on potential draft candidates.
+- **Role**: Built and deployed the prediction model, providing insights for NBA teams and coaches on potential draft candidates.
 
-**Link**: https://github.com/SimonLim03/Kaggle-Competition-NBA-Basketball-
+- **Link**: https://github.com/SimonLim03/Kaggle-Competition-NBA-Basketball-
 
-**Technologies Used**: Python, Machine Learning, Data Analysis.
+- **Technologies Used**: Python, Machine Learning, Data Analysis.
 </p>
 
 
@@ -85,11 +85,16 @@ The best way to showcase skills is by doing and sharing your job done but someti
 ## Image Captioning
 ![Screenshot (319)](https://github.com/SimonLim03/Projects-Portfolio/assets/150989115/44308f89-9f3c-4ad5-abf4-3326056885ef)
 <p>
--	Developed feature extraction capabilities using CNN models (Resnet, V3 and GoogleNet), paired with a sequence-based LSTM model, to accurately generate relevant captions for images.
+  
+- **Description**: Implemented a model combining CNNs and LSTM for generating relevant captions for images.
+
+- **Role**: Developed feature extraction and caption generation models for image descriptions.
+
+- **Link**: Image Captioning Model (Note: Replace with the actual link if different)
+
+- **Technologies Used**: Python, CNN models (ResNet, MobileNetV3, GoogleNet), LSTM.
 </p>
 
-- Link: https://github.com/SimonLim03/Image-Captioning/tree/main
-- Deep earning, CNN, RNN
 <hr>
 
 # Data Engineering and Analysis Projects

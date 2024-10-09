@@ -51,7 +51,13 @@ The best way to showcase skills is by doing and sharing your job done but someti
 
 ## Sales-Revenue-Prediction-App
 <p>
-This application involves two machine learning models that were established for business purposes. One model is a predictive model using a Machine Learning algorithm to accurately predict the sales revenue for a given item in a specific store at a given date.The other is a forecasting model using a time-series analysis that can forecast the total sales revenue across all stores and items for the next 7 days. Two different models helped users to get a comprehensive overviews of sales revenue across stores. The models have been deployed using Fastapi, Docker and Heroku, which enable models' access to users online anytime.
+Description: Developed two machine learning models to predict sales revenue for individual items in specific stores and forecast total sales revenue across all stores for the next 7 days.
+
+Role: Built and deployed the predictive and forecasting models using FastAPI and Docker, enabling online access for users.
+
+Link: Sales-Revenue-Prediction-App
+
+Technologies Used: Machine Learning, Time-series Forecasting, Docker, FastAPI, Heroku.
 </p>
 
 

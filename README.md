@@ -33,69 +33,6 @@ The best way to showcase skills is by doing and sharing your job done but someti
 
 <hr>
 
-# Machine Learning Projects
-
-## US Flight Fare Prediction App
-![image](https://github.com/SimonLim03/Projects-Portfolio/assets/150989115/9b1bb9a0-b0e2-4dd3-8e16-b164def34d04)
-
-<p>
-  
--	**Description** : Developed a flight fare prediction model to segment fares into categories and provide real-time fare predictions.
-  
--	**Role** : Built and deployed a prediction model, developed an interactive user interface for real-time access.
-
-- **Link** : https://github.com/SimonLim03/Flight-Fare-Prediction-App
-
-- **Technologies Used** : Python, Streamlit, Docker.
-</p>
-
-
-<hr>
-
-## Sales-Revenue-Prediction-App
-<p>
-  
-- **Description**: Developed two machine learning models to predict sales revenue for individual items in specific stores and forecast total sales revenue across all stores for the next 7 days.
-
-- **Role**: Built and deployed the predictive and forecasting models using FastAPI and Docker, enabling online access for users.
-
-- **Link**: https://github.com/SimonLim03/Sales-Revenue-Prediction-App
-
-- **Technologies Used**: Machine Learning, Time-series Forecasting, Docker, FastAPI, Heroku.
-</p>
-
-<hr>
-
-## NBA Basketball Player Prediction (Kaggle Competition)
-![image](https://github.com/SimonLim03/Projects-Portfolio/assets/150989115/b9ebd370-3bf7-4942-b8a9-f1aea9e4cf6f)
-<p>
-  
-- **Description**: Developed a predictive model to determine whether a college basketball player will be drafted into the NBA based on their current season statistics.
-
-- **Role**: Built and deployed the prediction model, providing insights for NBA teams and coaches on potential draft candidates.
-
-- **Link**: https://github.com/SimonLim03/Kaggle-Competition-NBA-Basketball-
-
-- **Technologies Used**: Python, Machine Learning, Data Analysis.
-</p>
-
-
-<hr>
-
-## Image Captioning
-![Screenshot (319)](https://github.com/SimonLim03/Projects-Portfolio/assets/150989115/44308f89-9f3c-4ad5-abf4-3326056885ef)
-<p>
-  
-- **Description**: Implemented a model combining CNNs and LSTM for generating relevant captions for images.
-
-- **Role**: Developed feature extraction and caption generation models for image descriptions.
-
-- **Link**: https://github.com/SimonLim03/Image-Captioning
-
-- **Technologies Used**: Python, CNN models (ResNet, MobileNetV3, GoogleNet), LSTM.
-</p>
-
-<hr>
 
 # Data Analytics Projects
 
@@ -291,6 +228,69 @@ The best way to showcase skills is by doing and sharing your job done but someti
 
 <hr>
 
+# Machine Learning Projects
+
+## US Flight Fare Prediction App
+![image](https://github.com/SimonLim03/Projects-Portfolio/assets/150989115/9b1bb9a0-b0e2-4dd3-8e16-b164def34d04)
+
+<p>
+  
+-	**Description** : Developed a flight fare prediction model to segment fares into categories and provide real-time fare predictions.
+  
+-	**Role** : Built and deployed a prediction model, developed an interactive user interface for real-time access.
+
+- **Link** : https://github.com/SimonLim03/Flight-Fare-Prediction-App
+
+- **Technologies Used** : Python, Streamlit, Docker.
+</p>
+
+
+<hr>
+
+## Sales-Revenue-Prediction-App
+<p>
+  
+- **Description**: Developed two machine learning models to predict sales revenue for individual items in specific stores and forecast total sales revenue across all stores for the next 7 days.
+
+- **Role**: Built and deployed the predictive and forecasting models using FastAPI and Docker, enabling online access for users.
+
+- **Link**: https://github.com/SimonLim03/Sales-Revenue-Prediction-App
+
+- **Technologies Used**: Machine Learning, Time-series Forecasting, Docker, FastAPI, Heroku.
+</p>
+
+<hr>
+
+## NBA Basketball Player Prediction (Kaggle Competition)
+![image](https://github.com/SimonLim03/Projects-Portfolio/assets/150989115/b9ebd370-3bf7-4942-b8a9-f1aea9e4cf6f)
+<p>
+  
+- **Description**: Developed a predictive model to determine whether a college basketball player will be drafted into the NBA based on their current season statistics.
+
+- **Role**: Built and deployed the prediction model, providing insights for NBA teams and coaches on potential draft candidates.
+
+- **Link**: https://github.com/SimonLim03/Kaggle-Competition-NBA-Basketball-
+
+- **Technologies Used**: Python, Machine Learning, Data Analysis.
+</p>
+
+
+<hr>
+
+## Image Captioning
+![Screenshot (319)](https://github.com/SimonLim03/Projects-Portfolio/assets/150989115/44308f89-9f3c-4ad5-abf4-3326056885ef)
+<p>
+  
+- **Description**: Implemented a model combining CNNs and LSTM for generating relevant captions for images.
+
+- **Role**: Developed feature extraction and caption generation models for image descriptions.
+
+- **Link**: https://github.com/SimonLim03/Image-Captioning
+
+- **Technologies Used**: Python, CNN models (ResNet, MobileNetV3, GoogleNet), LSTM.
+</p>
+
+<hr>
 
 # Natural Language Processing Projects
 ## Covid-19-NLP-text-analysis

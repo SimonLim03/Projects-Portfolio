@@ -27,6 +27,7 @@ The best way to showcase skills is by doing and sharing your job done but someti
 - [Data Scientist Associate Certificate](https://www.datacamp.com/certificate/DSA0010896916681) (Feb 2024) (Datacamp)
 - [Relational Database Administration (DBA)](https://www.coursera.org/account/accomplishments/verify/XTYSNA8CNHP3) (Jan 2024) (Coursera - IBM)
 - [Microsoft Azure Fundamentals AZ-900 Exam Prep](https://www.coursera.org/account/accomplishments/specialization/GBAAHANVEYBP) (2024) (Coursera - Micrisoft)
+- [Data Analyst Associate Certificate](https://www.datacamp.com/certificate/DAA0012144964754) (OCT 2024) (Datacamp)
   
 # My Past Projects
 

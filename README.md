@@ -90,70 +90,95 @@ The best way to showcase skills is by doing and sharing your job done but someti
 
 - **Role**: Developed feature extraction and caption generation models for image descriptions.
 
-- **Link**: Image Captioning Model (Note: Replace with the actual link if different)
+- **Link**: https://github.com/SimonLim03/Image-Captioning
 
 - **Technologies Used**: Python, CNN models (ResNet, MobileNetV3, GoogleNet), LSTM.
 </p>
 
 <hr>
 
-# Data Engineering and Analysis Projects
+# Data Analytics Projects
 
-## Youtube Trending Videos Data Analysis with Snowflake
+## Analysis of YouTube Trending Videos
 ![image](https://github.com/SimonLim03/Projects-Portfolio/assets/150989115/4f685472-76f4-4523-8d00-55c80456cff1)
 <p>
-Top trending videos are evaluated based on video’s number of views, shares, likes and comments etc. A dataset with a daily record of the top popular and trending videos has been extracted through YouTube API. The objective of the project is to analyse the dataset, which consists of CSVs and Jsons files, by using a Data Lakehouse with Snowflake. Analysis of Youtube Trending Videos has helped youtube creators by providing current trending video categories and channels that have been mostly created and viewed on Youtube. 
+  
+-	**Description**: Analysed daily trends in YouTube videos to identify popular categories and viewer preferences, helping content creators tailor their strategies.
+
+-	**Role**: Conducted data extraction and analysis, developed insights into video trends and viewer behaviour.
+
+- **Link**: https://github.com/SimonLim03/Youtube-Videos-Data-Lakehouse
+
+-	**Technologies Used**: Snowflake, SQL, Json.
 </p>
 
-
-- Link: https://github.com/SimonLim03/Youtube-Videos-Data-Lakehouse
-- Snowflake, SQL, Data Analysis, Data Lakehouse
 <hr>
 
-## EcoHealth Visualization Webpage
+## Data Visualization Webpage (EcoHealth)
 ![image](https://github.com/SimonLim03/Projects-Portfolio/assets/150989115/bee8ab6d-1ad9-4207-9196-68c2afb78887)
 
 <p>
-This webpage is built by team EcoHealth. This page serves as a comprehensive resource for exploring the profound impact of pollution on global health. Through detailed visualizations, information, and curated content, visitors will gain an in-depth understanding of how various pollutants adversely affect the environment and consequently, human health. By examining the interconnections between air, water, and soil pollution and the incidence of health conditions worldwide, this platform aims to raise awareness and encourage proactive measures. It's an invaluable tool for educators, policymakers, and individuals alike, offering insights into the significance of environmental preservation and the urgent need for sustainable practices to safeguard our planet and our well-being.
+  
+-	**Description**: Developed a webpage with detailed visualizations to illustrate the environmental and health impacts of air pollution.
+
+-	**Role**: Created interactive visualizations to present comprehensive environmental data insights.
+
+- **Webpage**: https://ilab-project-bfujiqbkuwgur9zecrjqfn.streamlit.app/
+
+- **Link**: https://github.com/SimonUTS24661225/ILab-Project/tree/master
+
+-	**Technologies Used**: Python, GoogleLooker, Tableau, Streamlit.
 </p>
 
 
-- Link: https://github.com/SimonUTS24661225/ILab-Project/tree/master
-- GoogleLooker, Tableau, Streamlit
-- Webpage: https://ilab-project-bfujiqbkuwgur9zecrjqfn.streamlit.app/
 <hr>
 
-## New York City Taxi Data Processing and Analysis with Spark
+## Big Data Processing and Analysis of New York City Taxi Data
 ![image](https://github.com/SimonLim03/Projects-Portfolio/assets/150989115/80817b79-ff7b-4c8f-ba59-1d7fba968cf8)
 <p>
-The objective of the project is to analyse a large dataset and obtain meaningful outcomes using Spark in Databricks. The procedure of the project includes data ingestion and preparation, data transformation and analysis and finally training a Machine Learning algorithm for predicting total amount of trips. Analysis of New York City Taxi has given a comprehensive overview of total amount of trips in New York. Also, it provided a specific time range that taxi drivers can make the highest amounts of trips.
+  
+-	**Description**: Managed and analyzed large datasets from NYC taxis to develop a predictive model for trip volumes during peak times.
+  
+- **Role**: Processed and analyzed big data, created predictive models to forecast taxi trip volumes.
+
+- **Link**: https://github.com/SimonLim03/Data-Processing-with-Databricks-Spark
+
+-	**Technologies Used**: PySpark, SQL Spark, Databrick
 </p>
 
 
-- Link: https://github.com/SimonLim03/Data-Processing-with-Databricks-Spark
-- Databricks, Pyspark, SQL, Big Data Analysis
 <hr>
 
-## Airbnb Data Pipelines using Airflow
+## Data Analysis of Airbnb Data through a Data Pipeline
 ![image](https://github.com/SimonLim03/Projects-Portfolio/assets/150989115/4537a154-93a3-4786-b80e-3440b06dcfe0)
 <p>
-Airbnb records millions of various information in 191 countries, including density of rentals across regions, price variations across rentals and host-guest interactions (e.g., number of reviews). In this project, only data in Sydney are used with specific date range from May 2020 to April 2021. The objective of the project is to build production-ready data pipelines with Airflow, Data Build Tool and Postgres SQL. Data pipelines and analysis on Airbnb provided an overview of the average revenue, total number of stays and the proportions of age ranges depending on different suburb, property type and room type.  
+  
+-	**Description**: Constructed and maintained data pipelines on Google Cloud Platform to analyze key metrics such as revenue and guest demographics.
+
+-	**Role**: Designed and implemented data pipelines, performed detailed analysis on Airbnb data.
+
+- **Link**: https://github.com/SimonLim03/Airbnb-Data-Pipelines-with-Airflow-
+
+-	**Technologies Used**: Airflow, DBT, PostgreSQL, Google Cloud Platform, Microsoft Azure.
 </p>
 
 
-- Link: https://github.com/SimonLim03/Airbnb-Data-Pipelines-with-Airflow-
-- Microsoft Azure, Airflow, DBT, PostgreSQL, Data pipeline
 <hr>
 
-## EDA on Google-Play-Store
+## Trend Analysis on Google Play Store
 ![image](https://github.com/SimonLim03/Projects-Portfolio/assets/150989115/e66a81ba-1871-45e0-9d31-e5059f8ade7c)
 <p>
-The project explores data about Google Play Store applications and analyzes the relationships and overall trends of current applications in Google Play Store. 
+  
+-	**Description**: Conducted trend analysis of applications on the Google Play Store, using various visualizations to identify popular app categories and trends.
+
+-	**Role**: Analyzed app data, created visualizations to reveal trends and insights.
+  
+- **Link**: https://github.com/SimonLim03/Google-Play-Store-EDA-
+
+-	**Technologies Used**: Python, Power BI.
 </p> 
 
 
-- Link: https://github.com/SimonLim03/Google-Play-Store-EDA-
-- Exploratory Data Analysis, Data Visualization, Kaggle, Python
 <hr>
 
 ## Waste-and-Recycling-Data-Narratives

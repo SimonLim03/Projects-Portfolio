@@ -40,7 +40,9 @@ The best way to showcase skills is by doing and sharing your job done but someti
 
 <p>
 -	Description: Developed a flight fare prediction model to segment fares into categories and provide real-time fare predictions.
+  
 -	Technologies Used: Python, Streamlit.
+
 -	Role: Built and deployed a prediction model, developed an interactive user interface for real-time access.
 </p>
 

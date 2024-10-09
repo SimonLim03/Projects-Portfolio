@@ -43,14 +43,18 @@ The best way to showcase skills is by doing and sharing your job done but someti
 -	Description: Developed a flight fare prediction model to segment fares into categories and provide real-time fare predictions.
   
 -	Role: Built and deployed a prediction model, developed an interactive user interface for real-time access.
-</p>
 
 - Link: https://github.com/SimonLim03/Flight-Fare-Prediction-App
+
 - Technologies Used: Python, Streamlit, Docker.
+</p>
+
+
 <hr>
 
 ## Sales-Revenue-Prediction-App
 <p>
+  
 - Description: Developed two machine learning models to predict sales revenue for individual items in specific stores and forecast total sales revenue across all stores for the next 7 days.
 
 - Role: Built and deployed the predictive and forecasting models using FastAPI and Docker, enabling online access for users.
@@ -59,7 +63,6 @@ The best way to showcase skills is by doing and sharing your job done but someti
 
 - Technologies Used: Machine Learning, Time-series Forecasting, Docker, FastAPI, Heroku.
 </p>
-
 
 <hr>
 

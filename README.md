@@ -39,8 +39,9 @@ The best way to showcase skills is by doing and sharing your job done but someti
 ![image](https://github.com/SimonLim03/Projects-Portfolio/assets/150989115/9b1bb9a0-b0e2-4dd3-8e16-b164def34d04)
 
 <p>
-A machine learning product, which can predict the expected flight fare for different airport trips. In particular, this project split the travel airfare into 4 different fares, including minimum, median, modal and mean of airfare. The models with CatBoostRegressor showed a great performance and provided a comprehensive overview of potential airports fares to users. 
-To enable model’s access to users, Streamlit was used for model deployment, enabling users to use the models as a application.
+-	Description: Developed a flight fare prediction model to segment fares into categories and provide real-time fare predictions.
+-	Technologies Used: Python, Streamlit.
+-	Role: Built and deployed a prediction model, developed an interactive user interface for real-time access.
 </p>
 
 

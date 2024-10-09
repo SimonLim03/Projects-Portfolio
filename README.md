@@ -181,46 +181,67 @@ The best way to showcase skills is by doing and sharing your job done but someti
 
 <hr>
 
-## Waste-and-Recycling-Data-Narratives
+## Data Analysis on Waste and Recycling
 ![image](https://github.com/SimonLim03/Projects-Portfolio/assets/150989115/e6e4afcd-dbe8-4ae2-ba33-b5e6233f063a)
 <p>
-This purpose of the project is to reduce the rubbish residents generate and encourage people to recycle more. The current situations and problems have been described, analysed and visualized and appropriate solutions have been provided. This project has been crafted like a public advertisement.
+  
+-	**Description**: Analyzed waste and recycling data across NSW to develop strategies for improving recycling efforts and reducing waste.
+
+-	**Role**: Performed data analysis to correlate demographic factors with recycling behaviors.
+
+- **Link**: https://github.com/SimonLim03/Waste-and-Recycling-Data-Narratives
+
+-	**Technologies Used**: SQL, Python.
 </p> 
 
 
-- Link: https://github.com/SimonLim03/Waste-and-Recycling-Data-Narratives
-- Data Narratives, Data Visualization, Advertisement
 <hr>
 
-## Analysis-of-Company-Performance-SQL-
+## Analysis of Company-Performance using SQL
 ![image](https://github.com/SimonLim03/Projects-Portfolio/assets/150989115/f74fa635-5af5-4ae2-937c-90a5d3dedce7)
 <p>
-The performance of the business company has been analyzed using SQL on a Postgres SQL database.
+  
+- **Description**: Analyzed the performance of a business company using SQL on a PostgreSQL database.
+
+- **Role**: Conducted data analysis to derive insights into business performance.
+
+- **Link**: https://github.com/SimonLim03/Analysis-of-Company-Performance-SQL-
+
+- **Technologies Used**: SQL, PostgreSQL, Data Analysis.
 </p> 
 
-
-- Link: https://github.com/SimonLim03/Analysis-of-Company-Performance-SQL-
-- PostgreSQL, Data Analysis
 <hr>
 
-## Data-Visualization-on-Covid-19-Cases
+## Data Visualization of Covid19 Cases
 <p>
-Data narrative and visualization on Covid-19 cases and deaths using Python packages
+  
+- **Description**: Conducted data narrative and visualization on COVID-19 cases and deaths using Python packages.
+
+- **Role**: Developed visualizations and narratives to provide insights into the impact of COVID-19.
+
+- **Link**: https://github.com/SimonLim03/Data-Visualization-on-Covid-19-Cases
+
+- **Technologies Used**: Python, Data Visualization, Data Analysis.
 </p>
 
 
-- Link: https://github.com/SimonLim03/Data-Visualization-on-Covid-19-Cases
-- Data Visualization, Python
 <hr>
 
 
 ## Data-Storytelling-on-Sydney-House-Price
 ![image](https://github.com/SimonLim03/Projects-Portfolio/assets/150989115/a007e575-b75e-4d0e-b80e-7b4329ebc2fb)
 <p>
-This project aims to provide insights to the majority of Sydney suburbs, types of hosues and the overall house prices in each year and month through data Narratives and visualizations.
+  
+- **Description**: Provided insights into Sydney suburbs, types of houses, and overall house prices by analyzing data narratives and visualizations over each year and month.
+
+- **Role**: Developed data narratives and visualizations to present comprehensive insights on housing trends in Sydney.
+
+- **Link**: https://github.com/SimonLim03/Data-Storytelling-on-Sydney-House-Price
+
+- **Technologies Used**: Python, Data Visualization, Data Analysis.
  </p> 
-- Link: https://github.com/SimonLim03/Data-Storytelling-on-Sydney-House-Price
-- Data Visualization, Kaggle
+
+
 <hr>
 
 ## Data-analysis-for-marketing-campaigns

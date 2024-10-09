@@ -165,7 +165,7 @@ The best way to showcase skills is by doing and sharing your job done but someti
 
 <hr>
 
-## Trend Analysis on Google Play Store
+## Trend Analysis of Google Play Store
 ![image](https://github.com/SimonLim03/Projects-Portfolio/assets/150989115/e66a81ba-1871-45e0-9d31-e5059f8ade7c)
 <p>
   
@@ -181,7 +181,7 @@ The best way to showcase skills is by doing and sharing your job done but someti
 
 <hr>
 
-## Data Analysis on Waste and Recycling
+## Data Analysis of Waste and Recycling
 ![image](https://github.com/SimonLim03/Projects-Portfolio/assets/150989115/e6e4afcd-dbe8-4ae2-ba33-b5e6233f063a)
 <p>
   
@@ -228,7 +228,7 @@ The best way to showcase skills is by doing and sharing your job done but someti
 <hr>
 
 
-## Data-Storytelling-on-Sydney-House-Price
+## Data Storytelling of Sydney House Price
 ![image](https://github.com/SimonLim03/Projects-Portfolio/assets/150989115/a007e575-b75e-4d0e-b80e-7b4329ebc2fb)
 <p>
   
@@ -244,62 +244,83 @@ The best way to showcase skills is by doing and sharing your job done but someti
 
 <hr>
 
-## Data-analysis-for-marketing-campaigns
+## Data analysis of marketing campaigns
 ![image](https://github.com/SimonLim03/Projects-Portfolio/assets/150989115/b55c2d44-6116-4e16-8812-db7e6b76d902)
 <p>
-The main objective of the project is to build statistical learning models that can successfully identify the customer segments that are the most responsive to marketing campaigns. Furthermore, the project also aims at finding three effective business strategies that can help the company in making decisions for their marketing campaigns.
+  
+- **Description**: Built statistical learning models to identify customer segments most responsive to marketing campaigns. The project also explored three effective business strategies to guide marketing decision-making.
+
+- **Role**: Developed and deployed models to segment customers and provided strategic insights for optimizing marketing campaigns.
+
+- **Link**: https://github.com/SimonLim03/Data-analysis-for-marketing-campaigns
+
+- **Technologies Used**: Python, Statistical Learning, Data Analysis.
 </p> 
 
- 
-- Link: https://github.com/SimonLim03/Data-analysis-for-marketing-campaigns
-- Machine Learning (Classification), EDA, Bayesian Estimation, Bayesian Optimization
+
 <hr>
 
 ## Quantified-Self Project
 ![image](https://github.com/SimonLim03/Projects-Portfolio/assets/150989115/a1154742-c806-4110-a40d-a8019feedd49)
 
 <p>
-The project involves collecting data in our daily life using mobile phone and self-tracking tools and analyze collected data about various aspects of our daily life. The goal of the project was to gain insights into personal behavior, performance and emotions by tracking and quantifying different aspects of one's life.  
+
+-	**Description**: Explored personal data collected through self-tracking tools to analyze emotional states and behaviors, aiming to improve life quality.
+
+- **Role**: Analyzed personal data to derive insights and improve daily well-being.
+
+- **Link**: https://github.com/SimonLim03/Quantified-Self-Project
+  
+-	**Technologies Used**: R, Various Self-tracking Tools.
 </p> 
 
- 
-- Link: https://github.com/SimonLim03/Quantified-Self-Project
-- R, Self-tracking, Data Visualization, Data Collection, Data Cleaning, Data Analysis, Data Ethics
 <hr>
 
-## Data-Visualization-on-World-University-Ranking using Tableau
+## Data Visualization of World University Ranking
 ![image](https://github.com/SimonLim03/Projects-Portfolio/assets/150989115/ea4ee11d-a39a-4113-86c9-6279af1949f7)
 <p>
-Data narrative and visualization on World University Ranking using Tableau
+  
+- **Description**: Created data narratives and visualizations on World University Rankings to provide insights into global education trends.
+
+- **Role**: Developed interactive visualizations to analyze and present university ranking data using Tableau.
+
+- **Link**: https://github.com/SimonLim03/Data-Visualization-on-World-University-Ranking-Tableau-
+
+- **Technologies Used**: Tableau, Data Visualization, Data Analysis.
 </p> 
 
- 
-- Link: https://github.com/SimonLim03/Data-Visualization-on-World-University-Ranking-Tableau-
-- Tableau, Data Visualization, Exploratory Data Analysis
 <hr>
-
 
 
 # Natural Language Processing Projects
 ## Covid-19-NLP-text-analysis
 <p>
-This project conducts text analysis using various techniques, including word count, word frequency, word association, k-mean clustering and sentiment analysis on dataset that is associated with the COVID-19 vaccine expressions and will try to find out the narrative and insights of the dataset. The dataset involves a variety of expressions for 181 common questions about COVID-19 vaccine.
+
+- **Description**: Conducted text analysis using techniques such as word count, word frequency, word association, k-means clustering, and sentiment analysis on a dataset related to COVID-19 vaccine expressions, providing insights into public sentiment and common questions.
+
+- **Role**: Performed text analysis and developed narratives to uncover insights from expressions about the COVID-19 vaccine.
+
+- **Link**: https://github.com/SimonLim03/Covid-19-NLP-text-analysis
+
+- **Technologies Used**: Python, Text Analysis, Sentiment Analysis, K-means Clustering.
  </p>
 
- 
-- Link : https://github.com/SimonLim03/Covid-19-NLP-text-analysis
-- Covid-19, Text Analysis, Clustering
 <hr>
 
 ## Amazon-Reviews-NLP-analysis
 ![image](https://github.com/SimonLim03/Projects-Portfolio/assets/150989115/483f7e5e-5a7d-4f1b-8268-da725c55b3f4)
 <p>
-Online reviews are important for customers for a better understanding of the product and their purchasing decisions. Reviews can also help retailers to improve their service or product. This project aims to use NLP techniques to build prediction models to predict how helpful new reviews will be or gain insight into the features that influence helpfulness. To better understand the variety of NLP techniques, multiple NLP techniques have been used.
+  
+- **Description**: Used NLP techniques to build prediction models that estimate the helpfulness of new online reviews and gain insights into the features that influence review helpfulness.
+
+- **Role**: Developed multiple NLP models to analyze online reviews, providing insights for retailers to improve products and services.
+
+- **Link**: https://github.com/SimonLim03/Amazon-Reviews-NLP-analysis
+
+- **Technologies Used**: Python, NLP, Machine Learning, Data Analysis.
  </p>
 
- 
-- Link: https://github.com/SimonLim03/Amazon-Reviews-NLP-analysis
-- NLP Text Analysis, Deep Learning, Clustering, Topic Modeling
+
 <hr>
 
 # Mini-Projects

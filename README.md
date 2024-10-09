@@ -55,26 +55,31 @@ The best way to showcase skills is by doing and sharing your job done but someti
 ## Sales-Revenue-Prediction-App
 <p>
   
-- Description: Developed two machine learning models to predict sales revenue for individual items in specific stores and forecast total sales revenue across all stores for the next 7 days.
+- **Description**: Developed two machine learning models to predict sales revenue for individual items in specific stores and forecast total sales revenue across all stores for the next 7 days.
 
-- Role: Built and deployed the predictive and forecasting models using FastAPI and Docker, enabling online access for users.
+- **Role**: Built and deployed the predictive and forecasting models using FastAPI and Docker, enabling online access for users.
 
-- Link: https://github.com/SimonLim03/Sales-Revenue-Prediction-App
+- **Link**: https://github.com/SimonLim03/Sales-Revenue-Prediction-App
 
-- Technologies Used: Machine Learning, Time-series Forecasting, Docker, FastAPI, Heroku.
+- **Technologies Used**: Machine Learning, Time-series Forecasting, Docker, FastAPI, Heroku.
 </p>
 
 <hr>
 
-## Kaggle Competition (NBA Draft)
+## NBA Basketball Player Prediction (Kaggle Competition)
 ![image](https://github.com/SimonLim03/Projects-Portfolio/assets/150989115/b9ebd370-3bf7-4942-b8a9-f1aea9e4cf6f)
 <p>
-The objective of the project is build a model that will predict if a college basketball player will be drafted to join the NBA league based on his statistics for the current season. The models provided potential NBA players to NBA teams and coaches. 
+  
+**Description**: Developed a predictive model to determine whether a college basketball player will be drafted into the NBA based on their current season statistics.
+
+**Role**: Built and deployed the prediction model, providing insights for NBA teams and coaches on potential draft candidates.
+
+**Link**: https://github.com/SimonLim03/Kaggle-Competition-NBA-Basketball-
+
+**Technologies Used**: Python, Machine Learning, Data Analysis.
 </p>
 
 
-- Link: https://github.com/SimonLim03/Kaggle-Competition-NBA-Basketball-
-- Machine Learning, Kaggle Competition
 <hr>
 
 ## Image Captioning
